@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	CircleLinkedList<int> LinkedList;
+	/*CircleLinkedList<int> LinkedList;
 	LinkedList.Insert_FirstNode(100);
 	LinkedList.Print_LinkedList();
 
@@ -20,8 +20,12 @@ int main()
 	LinkedList.Print_LinkedList();
 
 	LinkedList.Delete_LastNode();
+	LinkedList.Print_LinkedList();*/
+
+	SinglyLinkedList<int> LinkedList;
+
+	LinkedList.Insert_LastNode(400);
 	LinkedList.Print_LinkedList();
-	/*SinglyLinkedList<int> LinkedList;
 
 	LinkedList.Insert_FirstNode(100);
 	LinkedList.Print_LinkedList();
@@ -36,6 +40,6 @@ int main()
 	LinkedList.Print_LinkedList();
 
 	LinkedList.Delete_LastNode();
-	LinkedList.Print_LinkedList();*/
+	LinkedList.Print_LinkedList();
 	return 0;
 }

@@ -48,12 +48,20 @@ template<typename T>
 inline void SinglyLinkedList<T>::Insert_LastNode(T Data)
 {
 	Node<T>* i = Head;
+	Node<T>* NewNode = new Node<T>;
+	NewNode->Data = Data;
+
+	if (nullptr == Head)
+	{
+		NewNode->NextNode = nullptr;
+		Head = NewNode;
+		return;
+	}
+
 	while (nullptr != i)
 	{
 		if (nullptr == i->NextNode)
 		{
-			Node<T>* NewNode = new Node<T>;
-			NewNode->Data = Data;
 			NewNode->NextNode = nullptr;
 			i->NextNode = NewNode;
 			break;
