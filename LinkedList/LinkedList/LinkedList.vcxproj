@@ -130,6 +130,7 @@
     <ClCompile Include="Sourcce.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CircleLinkedList.h" />
     <ClInclude Include="SinglyLinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
