@@ -130,6 +130,7 @@
     <ClCompile Include="Stack(Array).cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CH_Stack_LinkedList.h" />
     <ClInclude Include="CH_Stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
