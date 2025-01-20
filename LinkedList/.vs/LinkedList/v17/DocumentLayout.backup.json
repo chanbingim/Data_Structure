@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\",
+  "WorkspaceRootPath": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\Sourcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|solutionrelative:LinkedList\\Sourcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\CircleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\CircleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|solutionrelative:LinkedList\\CircleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\Sourcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|solutionrelative:LinkedList\\Sourcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\DoubleLinkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|solutionrelative:LinkedList\\DoubleLinkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{109B4C6D-DD41-4079-8EFC-CCA6F5791419}|LinkedList\\LinkedList.vcxproj|solutionrelative:LinkedList\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SinglyLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\SinglyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\SinglyLinkedList.h",
               "RelativeDocumentMoniker": "LinkedList\\SinglyLinkedList.h",
-              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\SinglyLinkedList.h",
+              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\SinglyLinkedList.h",
               "RelativeToolTip": "LinkedList\\SinglyLinkedList.h",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-19T08:39:15.064Z",
               "IsPinned": true,
@@ -40,26 +44,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "DoubleLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\DoubleLinkedList.h",
+              "RelativeDocumentMoniker": "LinkedList\\DoubleLinkedList.h",
+              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\DoubleLinkedList.h",
+              "RelativeToolTip": "LinkedList\\DoubleLinkedList.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T05:59:50.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CircleLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\CircleLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\CircleLinkedList.h",
               "RelativeDocumentMoniker": "LinkedList\\CircleLinkedList.h",
-              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\CircleLinkedList.h",
+              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\CircleLinkedList.h",
               "RelativeToolTip": "LinkedList\\CircleLinkedList.h",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-19T09:37:32.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Sourcce.cpp",
-              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\Sourcce.cpp",
+              "DocumentMoniker": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\Sourcce.cpp",
               "RelativeDocumentMoniker": "LinkedList\\Sourcce.cpp",
-              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBB38\uC11C\\GitHub\\Data_Structure\\LinkedList\\LinkedList\\Sourcce.cpp",
+              "ToolTip": "C:\\Users\\gimch\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\3. Data Struct\\LinkedList\\LinkedList\\Sourcce.cpp",
               "RelativeToolTip": "LinkedList\\Sourcce.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-19T08:38:03.293Z",
               "EditorCaption": ""

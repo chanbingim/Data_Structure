@@ -21,6 +21,7 @@ public:
 
 	void Insert_FirstNode(T Data);
 	void Insert_LastNode(T Data);
+
 	void Delete_FirstNode();
 	void Delete_LastNode();
 
@@ -69,18 +70,8 @@ inline void CircleLinkedList<T>::Insert_LastNode(T Data)
 		return;
 	}
 
-	while (nullptr != i)
-	{
-		if (nullptr == i->NextNode)
-		{
-			NewNode->NextNode = Head;
-			Tail = Head->NextNode;
-			Head->NextNode = NewNode;
-			break;
-		}
-
-		i = i->NextNode;
-	}
+	NewNode->NextNode = Head;
+	Tail->NextNode = NewNode;
 }
 
 template<typename T>
